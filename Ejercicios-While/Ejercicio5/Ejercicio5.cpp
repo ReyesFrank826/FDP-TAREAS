@@ -15,7 +15,7 @@ int main()
     while (contador <= num)
     {
         suma = suma + contador;
-        contador += 2;
+        contador +=2;
     }
 
     cout << "\nLa suma de los pares es: " << suma << endl;
